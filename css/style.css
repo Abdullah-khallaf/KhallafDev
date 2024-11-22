@@ -391,6 +391,9 @@ h3 > span{
 
 
 @media (max-width: 600px) {
+    .my-work{
+        text-align: center;
+    }
     .portfolio{
         flex-direction: column;
         justify-content: center;
