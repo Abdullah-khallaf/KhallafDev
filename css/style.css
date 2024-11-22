@@ -390,7 +390,12 @@ h3 > span{
 
 
 
-
+@media (min-width: 600px) {
+    .portfolio{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
 
 
 
